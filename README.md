@@ -5,12 +5,12 @@ https://www.w3schools.com/w3css/default.asp
 
 ## Start the local web server
 Execute the following line in the project root:
-```
+```sh
 node server.js
 ```
 
 or
-```
+```sh
 npm run start
 ```
 
@@ -18,7 +18,7 @@ npm run start
 ---
 ## Quick setup — if you’ve done this kind of thing before
 ##### … or create a new repository on the command line
-```github
+```sh
 echo "# dummy" >> README.md
 git init
 git add README.md
@@ -28,7 +28,7 @@ git push -u origin master
 ```
 
 ##### … or push an existing repository from the command line
-```github
+```sh
 git remote add origin https://github.com/Aubacca/dummy.git
 git push -u origin master
 ```
