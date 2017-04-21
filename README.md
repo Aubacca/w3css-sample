@@ -5,9 +5,14 @@ https://www.w3schools.com/w3css/default.asp
 
 ## Start the local web server
 Execute the following line in the project root:
-### <code>node server.js</code>
+```
+node server.js
+```
+
 or
-### <code>npm run start</code>
+```
+npm run start
+```
 
 
 ---
